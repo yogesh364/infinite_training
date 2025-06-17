@@ -1,0 +1,24 @@
+Git basics:
+
+Git : it is an open source version control tool
+
+Git Hub : is a company founded in 2008, that makes tools which integrate with the git(Platform integration)
+
+it is a cloud based platform where we can store, share and work together with other
+
+Alteranate to GitHub : Gitlab, BitBucket,
+
+
+
+
+Csharp:
+
+Is designed for common lang infrastructure which consists of executable code, runtime environment, allowing various high level languages on different platforms and architecture.
+
+Is a modern general purpose, object oriented programming Language by Microsoft
+
+Namespace : is a logical way to organize our programs
+	    is a collecton of other namespace, Classes, Interfaces, events, delegates, structures and enums etc.,
+	    provides 
+
+Thank You
